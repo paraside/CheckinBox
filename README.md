@@ -71,3 +71,4 @@ PS. 如果未设置pull.yml配置文件，则mergeMethod的规则默认为none(�
 2. 参考[插件使用文档](https://github.com/wei/pull#advanced-setup-with-config)进行修改<br>
 PS.强制远程分支覆盖自己的分支只需要将mergeMethod的值修改为hardreset
 
+
